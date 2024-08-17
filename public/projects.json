@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "name": "Fast Way Parcel",
+      "details":"This is a Parcel Delivery Website",
+      "img": "https://i.ibb.co/TPXgqg2/fastway.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Chauni Cafe",
+      "details": "This is a full responsive restaurant website",
+      "img": "https://i.ibb.co/BPLFjz8/chauni.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Velocity Motors",
+      "details": "It is a Car selling website",
+      "img": "https://i.ibb.co/qd9fZTk/velocity-cover.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Event Management",
+      "details": "Various Kind of event management website",
+      "img": "https://i.ibb.co/JH88qKm/event.jpg"
+    }
+  ]
+  

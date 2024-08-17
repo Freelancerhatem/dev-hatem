@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./src/assets/fav.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      body {
+        scroll-behavior: smooth;
+      }
+    </style>
+    <title>Portfolio</title>
+  </head>
+
+  <body class="font-custom lowercase">
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"
+    ></script>
+    <script type="text/javascript">
+      (function () {
+        emailjs.init("uvSy1pe9ap-JM7kRS");
+      })();
+    </script>
+  </body>
+</html>
